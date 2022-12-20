@@ -2,7 +2,7 @@
 
 /**
  * swap_int - swaps the value of two integers
- * @n: int a
+ * @a: int a
  * @b: int b
  */
 
