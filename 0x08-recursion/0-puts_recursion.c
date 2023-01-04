@@ -4,7 +4,7 @@
  * _puts_recursion - pointer followed by a new line
  * @s: string
  */
-void _puts_recursion (char *s)
+void _puts_recursion(char *s)
 {
 	if (*s)
 	{
